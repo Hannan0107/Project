@@ -1,0 +1,28 @@
+#lo {
+  font-family: 'Cormorant SC', serif;
+  color: #990000;
+
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+#ncon {
+  font-family: 'Cormorant SC', serif;
+  font-size: 1.5rem;
+
+
+
+}
+
+li {
+  padding-right: 10px;
+}
